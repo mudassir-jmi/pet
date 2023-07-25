@@ -47,7 +47,7 @@ git clone https://github.com/codewithsadee/kitter.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://mudassir-portfolio.onnextweb.com).
+If you want to contact with me you can reach me at [portfolio](https://mudassir-portfolio.onnextweb.com).
 
 ### License
 
